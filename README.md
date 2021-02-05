@@ -4,7 +4,7 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-This is the changes I have made
+This is my first change at GitHub
 
 ## Installation <a name="installation"></a>
 
